@@ -13,4 +13,4 @@ jobs:
 
     steps:
       - uses: actions/checkout@v6 # OBS: v6 current as of Dec 2025
-      - uses: leanprover/lean-action@v1
+      - uses: leanprover/lean-action@v1 # OBS: v1 current as of Dec 2025
